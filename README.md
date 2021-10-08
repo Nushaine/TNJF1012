@@ -1,3 +1,4 @@
+Pokedex
 Team Name: TNFJ
 Team member names: Tarek and Nushaine
 Team emails: Trk27@my.yorku.ca and Nushaine@my.yorku.ca
