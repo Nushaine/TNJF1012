@@ -16,3 +16,8 @@ Project requirements
 3) Every Pokemon will have its own card on the homepage.
 4) There will be a filter on the top by the search bar that can separate any element type pokemon on the homescreen.
 5) Every pokemon will have its trading card game version.
+6) Use React.js and CSS to build the web app
+7) Includes user authentication (users may create an account on the web app)
+8) If created an account, users may select favourite
+9) Users can sort/filter Pokemon by placement in Pokedex, type of the Pokemon, region of existence, rarity (common, legendary, etc). 
+10) There will be a secret tab to view all legendary pokemon
